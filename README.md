@@ -14,3 +14,89 @@ Formation LabVIEW Deep Learning complète en français avec HAIBAL
 
 </tbody>
 </table>
+
+<p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=ZRYl4eiulQM&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="https://github.com/Technologies-de-France/Formation-Deep-Learning-LabVIEW/blob/main/En%20tete.png?raw=true" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p></p>
+<p></p>
+<p dir="auto">Organisation de la formation</p>
+<table border="0" style="height: 318px; width: 47.9902%; border-collapse: collapse;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Partie 1 - D&eacute;marrage</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Introduction au deep learning</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="/2%20- Fabriquer un modele de learning">Fabriquer un modele de learning</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Dataset</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Partie 2 - Les couches</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Dense</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Convolution</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 69.2755%; height: 33px;">Pooling and Upsampling</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 69.2755%; height: 15px;">Dropout</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">RNN</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Embedding</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Attention</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Transformer</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Partie 3 - Architectures</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
+<p><strong></strong></p>
+<table width="188" style="width: 479px; height: 108px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Computer vision (Reconnaissance - classification - segmentation)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Les GNN</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Reinforcement learning</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Self supervised</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Fine tuning</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;"></td>
+</tr>
+</tbody>
+</table>
