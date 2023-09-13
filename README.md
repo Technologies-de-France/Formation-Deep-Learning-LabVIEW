@@ -9,7 +9,7 @@
 </thead>
 </table>
 <p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
-<p>&nbsp;<a href="https://www.youtube.com/watch?v=ZRYl4eiulQM&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="https://github.com/Technologies-de-France/Formation-Deep-Learning-LabVIEW/blob/main/En%20tete.png?raw=true" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/playlist?list=PLtioRYPUn23qsMO8YU_DmLb-vyUnLIlpH"><img src="https://github.com/Technologies-de-France/Formation-Deep-Learning-LabVIEW/blob/main/En%20tete.png?raw=true" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <p dir="auto">Organisation de la formation</p>
