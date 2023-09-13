@@ -22,7 +22,7 @@
 <td style="width: 69.2755%; height: 18px;">Introduction au deep learning</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/2%20- Fabriquer un modele de learning">Fabriquer un modele de learning</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/2%20- Fabriquer un modele de learning">Fabriquer un mod&egrave;le</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Dataset</td>
