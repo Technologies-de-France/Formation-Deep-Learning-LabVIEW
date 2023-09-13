@@ -1,4 +1,4 @@
-<p># Formation-Deep-Learning-LabVIEW Formation LabVIEW Deep Learning compl&egrave;te en fran&ccedil;ais avec <a href="https://haibal.com/">HAIBAL</a></p>
+<p><strong>Formation LabVIEW Deep Learning compl&egrave;te en fran&ccedil;ais avec <a href="https://haibal.com/">HAIBAL</a></strong></p>
 <table style="height: 171px; width: 679px;">
 <thead>
 <tr style="height: 153px;">
